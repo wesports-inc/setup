@@ -29,6 +29,7 @@
     "passport": "^0.4.0",
     "passport-google-oauth": "^1.0.0",
     "prop-types": "^15.6.2",
+    "pure-react-carousel": "^1.21.2",
     "query-string": "^6.2.0",
     "rand-token": "^0.4.0",
     "react": "^16.5.2",
